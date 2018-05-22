@@ -1,0 +1,32 @@
+/********** Base styles **********/
+h1 {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+<!-- border: 1px solid green; -->
+}
+
+.para_margin {
+    margin: 10px;
+    background-color: #cacaca;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.para_container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.para_header {
+    padding: 2px;
+    text-align: center;
+}
+
+.row {
+    width: 100%;
+}
+
